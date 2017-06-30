@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="sliding_menu_width">80dp</dimen>
+    <dimen name="tool_bar_height">56dp</dimen>
+    <!--图标小中大特大-->
+    <dimen name="icon_s">20dp</dimen>
+    <dimen name="icon_m">30dp</dimen>
+    <dimen name="icon_l">40dp</dimen>
+    <dimen name="icon_xl">50dp</dimen>
+    <dimen name="icon_xxl">60dp</dimen>
+    <!--布局小中大特大-->
+    <dimen name="lay_s">60dp</dimen>
+    <dimen name="lay_m">80dp</dimen>
+    <dimen name="lay_l">100dp</dimen>
+    <dimen name="lay_xl">120dp</dimen>
+    <dimen name="lay_xxl">140dp</dimen>
+    <dimen name="lay_xxxl">220dp</dimen>
+    <!--字体小中大特大-->
+    <dimen name="text_s">12sp</dimen>
+    <dimen name="text_m">15sp</dimen>
+    <dimen name="text_l">18sp</dimen>
+    <dimen name="text_xl">21sp</dimen>
+    <!--间距特短短中长特长-->
+    <dimen name="space_xs">2dp</dimen>
+    <dimen name="space_s">4dp</dimen>
+    <dimen name="space_m">8dp</dimen>
+    <dimen name="space_l">16dp</dimen>
+    <dimen name="space_xl">32dp</dimen>
+    <!--弧度小中大特大-->
+    <dimen name="radius_s">5dp</dimen>
+    <dimen name="radius_m">10dp</dimen>
+    <dimen name="radius_l">15dp</dimen>
+    <dimen name="radius_xl">20dp</dimen>
+    <!--头像小中大特大-->
+    <dimen name="head_s">20dp</dimen>
+    <dimen name="head_m">40dp</dimen>
+    <dimen name="head_l">60dp</dimen>
+    <dimen name="head_xl">80dp</dimen>
+</resources>

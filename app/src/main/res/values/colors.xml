@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--主色-->
+    <color name="colorPrimaryLight">#434353</color>
+    <color name="colorPrimary">#34344D</color>
+    <color name="colorPrimaryDark">#292941</color>
+    <color name="colorPrimaryTrans">#d834344d</color>
+    <!--辅色-->
+    <color name="colorAuxiliaryLight">#B2EBF2</color>
+    <color name="colorAuxiliary">#4DD0E1</color>
+    <color name="colorAuxiliaryDark">#00BCD4</color>
+    <!--重色-->
+    <color name="colorAccent">#FF9900</color><!--强调色-->
+    <!--单个颜色-->
+    <color name="white">#FFFFFF</color><!--纯白 -->
+    <color name="black">#000000</color><!--纯黑-->
+    <color name="ivory">#FFFFFFF0</color><!--象牙色，除特殊情况外，均用作主要的白色-->
+    <color name="ivory_tran">#7cfffff0</color><!--浅象牙色-->
+    <color name="transparence">#00FFFFFF</color><!--透明-->
+    <color name="gray">#949494</color><!--灰色-->
+</resources>
